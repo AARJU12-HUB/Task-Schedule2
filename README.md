@@ -1,0 +1,1 @@
+> The aim of this project is to develop a Task Scheduler that helps users organize and manage their daily tasks efficiently. It allows users to add, edit, delete, search, sort, and execute tasks based on priority. The project also demonstrates the practical implementation of Data Structures and Algorithms using a C++ backend with a modern web interface.
